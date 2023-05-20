@@ -1,0 +1,34 @@
+Instalando o vscode
+- https://code.visualstudio.com/
+
+O que é o javascript que todo mundo fala ?
+Segundo o MDN , mozilla web doc, JavaScript® (às vezes abreviado para JS) é uma linguagem leve,
+ interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem 
+ de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js,
+  Apache CouchDB e Adobe Acrobat
+
+
+// Porque javascript ?
+O JavaScript é uma ótima linguagem de programação para iniciantes começarem seus estudos por várias razões:
+ JavaScript é a linguagem da web. Ela é executada nos navegadores da web, o que a torna acessível para quase todos que têm conexão com a internet
+ Fácil de começar: JavaScript tem uma curva de aprendizado suave, o que a torna uma linguagem amigável para iniciantes. Ela possui uma sintaxe simples e não requer configurações ou processos de instalação complexos.
+ Abundância de recursos de aprendizagem: Devido à sua popularidade, existem muitos recursos de aprendizagem disponíveis para JavaScript.
+ Forte suporte da comunidade: JavaScript possui uma comunidade de desenvolvedores grande e ativa. Isso significa que se você encontrar problemas ou tiver dúvidas, existem muitos desenvolvedores experientes dispostos a ajudar. 
+ Conjunto de habilidades versátil: Aprender JavaScript fornece uma base sólida para outras tecnologias e frameworks. Depois de entender os fundamentos do JavaScript, você pode facilmente fazer a transição para frameworks como React.js para construir interfaces de usuário, Node.js para desenvolvimento no lado do servidor ou Electron para construir aplicativos de desktop multiplataforma. 
+ Alta demanda no mercado de trabalho: JavaScript é uma das linguagens de programação mais procuradas no mercado de trabalho.
+
+Em resumo, JavaScript é uma excelente linguagem para iniciantes em desenvolvimento, devido à sua versatilidade, facilidade de aprendizado, recursos extensos, forte suporte da comunidade e alta demanda no mercado de trabalho. É um ótimo ponto de partida para construir uma base sólida em programação e abrir portas para várias oportunidades na indústria de tecnologia.
+
+
+
+// O que é DOM ?
+a DOM é uma representação em memória do documento HTML, nde cada elemento do documento é tratado como um objeto individual.
+Cada elemento, como tags <div>, <p>, <ul>, é representado como um nó na árvore DOM. Os nós podem conter outros nós, representando a relação pai-filho entre os elementos.
+Através da DOM, os desenvolvedores podem interagir com os elementos HTML/XML usando linguagens de programação, como JavaScript, por exemplo. Eles podem acessar os nós da árvore DOM, modificar seus atributos, conteúdo e estilo, adicionar ou remover elementos, além de responder a eventos, como cliques ou movimentos do mouse.
+
+// Console.log() ?
+
+console.log() é uma função da linguagem de programação JavaScript que exibe mensagens ou valores no console do navegador
+ou no console do ambiente de desenvolvimento.
+
+
